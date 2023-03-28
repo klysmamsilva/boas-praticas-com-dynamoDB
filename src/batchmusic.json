@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pholhas"},
+                  "SongTitle": {"S": "The Other One"},
+                  "AlbumTitle": {"S": "Dead Faces"},
+                  "SongYear": {"S": "1973"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pholhas"},
+                  "SongTitle": {"S": "My Mistake"},
+                  "AlbumTitle": {"S": "Dead Faces"},
+                  "SongYear": {"S": "1973"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Pholhas"},
+                  "SongTitle": {"S": "In My Way"},
+                  "AlbumTitle": {"S": "Dead Faces"},
+                  "SongYear": {"S": "1973"}
+                }
+            }
+        }
+      ]
+}
